@@ -1,0 +1,16 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\DrawBinaryTree\DrawBinaryTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\DrawBinaryTree\DrawBinaryTree\bin\Debug\DrawBinaryTree.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\DrawBinaryTree\DrawBinaryTree\bin\Debug\DrawBinaryTree.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.MainForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.pdb
+E:\Faculty of Engineering\4comp\Drawing Binary Search Trees\C#\DrawBinaryTree\obj\Debug\DrawBinaryTree.exe
+E:\Faculty of Engineering\4comp\Drawing Binary Search Trees\C#\DrawBinaryTree\obj\Debug\DrawBinaryTree.pdb
+E:\Faculty of Engineering\4comp\Drawing Binary Search Trees\C#\DrawBinaryTree\bin\Debug\DrawBinaryTree.exe
+E:\Faculty of Engineering\4comp\Drawing Binary Search Trees\C#\DrawBinaryTree\bin\Debug\DrawBinaryTree.pdb
+E:\Faculty of Engineering\4comp\Drawing Binary Search Trees\C#\DrawBinaryTree\obj\Debug\DrawBinaryTree.csprojResolveAssemblyReference.cache
+E:\Faculty of Engineering\4comp\Drawing Binary Search Trees\C#\DrawBinaryTree\obj\Debug\DrawBinaryTree.MainForm.resources
+E:\Faculty of Engineering\4comp\Drawing Binary Search Trees\C#\DrawBinaryTree\obj\Debug\DrawBinaryTree.Properties.Resources.resources
+E:\Faculty of Engineering\4comp\Drawing Binary Search Trees\C#\DrawBinaryTree\obj\Debug\DrawBinaryTree.csproj.GenerateResource.Cache
